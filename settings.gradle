@@ -1,0 +1,2 @@
+rootProject.name = "NDKJpegCompress"
+include ':app'
